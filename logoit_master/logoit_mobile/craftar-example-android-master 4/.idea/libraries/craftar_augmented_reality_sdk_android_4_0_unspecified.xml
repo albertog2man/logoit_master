@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="craftar-augmented-reality-sdk-android-4.0-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LogoIt/build/intermediates/exploded-aar/craftar-example-android-master 4/craftar-augmented-reality-sdk-android-4.0/unspecified/jars/libs/httpcore-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LogoIt/build/intermediates/exploded-aar/craftar-example-android-master 4/craftar-augmented-reality-sdk-android-4.0/unspecified/jars/libs/httpmime-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LogoIt/build/intermediates/exploded-aar/craftar-example-android-master 4/craftar-augmented-reality-sdk-android-4.0/unspecified/jars/libs/sanselan-0.97-incubator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LogoIt/build/intermediates/exploded-aar/craftar-example-android-master 4/craftar-augmented-reality-sdk-android-4.0/unspecified/jars/libs/craftarsdk.jar!/" />
+      <root url="file://$PROJECT_DIR$/LogoIt/build/intermediates/exploded-aar/craftar-example-android-master 4/craftar-augmented-reality-sdk-android-4.0/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/LogoIt/build/intermediates/exploded-aar/craftar-example-android-master 4/craftar-augmented-reality-sdk-android-4.0/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
